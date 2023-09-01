@@ -182,7 +182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 15d529308bb837048a71bb3d779f7bb4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 29208cb2a6ec64dcd9e51a696c1506fe, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -249,7 +249,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2290429128980147679, guid: 35a69f8bd3082ca47bb8aa0d0a31f444, type: 3}
+          m_ObjectArgument: {fileID: 196076, guid: 20a769104331d8b48ac7d1ea0d49cdf3, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -904,7 +904,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 14ec2e65fea83d945b21709c1feea0ac, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 40315b4013bcd410a9e963fd0dfe050f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -971,7 +971,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2683126175790518071, guid: d7efbcab7e630fb4f9a01349288209a7, type: 3}
+          m_ObjectArgument: {fileID: 174418, guid: 36c38a65d57de7d4a9a582f9ee857701, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -1105,7 +1105,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c459377d22b4bed418e213173161a3dd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8a53974a4f48d45cb8ccdf3dd04032da, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1172,7 +1172,7 @@ MonoBehaviour:
         m_MethodName: SwitchFurniture
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2606406848853835271, guid: dc1f2bc048dadeb478693b30c01a9ce8, type: 3}
+          m_ObjectArgument: {fileID: 139696, guid: eb58e8f2831a51f45a44a261e6710cdd, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
